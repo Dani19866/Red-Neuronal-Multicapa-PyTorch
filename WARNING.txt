@@ -1,0 +1,3 @@
+download and save in archive/
+Files of Fashion MNIST
+Download in Kaggle.com
