@@ -12,7 +12,7 @@ Esta aplicación te permite gestionar todo el ciclo de vida de un modelo de clas
 
 * **🧠 Creación de Redes:** Permite crear dos tipos de arquitecturas:
     * **Rectangular (MLP Clásico):** Define el número de capas ocultas y neuronas por capa.
-    * **Convolucional (CNN):** Una arquitectura CNN básica para el reconocimiento de imágenes.
+    * **Piramidal (MLP con interpolación):** Red neuronal multicapas con arquitectura piramidal.
 * **💾 Cargar y Guardar:**
     * Carga un modelo `.pth` previamente entrenado para evaluarlo.
     * Guarda tu modelo recién entrenado en un archivo `.pth`.
