@@ -1,6 +1,6 @@
 # 🤖 Clasificador Fashion MNIST con PyTorch y GUI
 
-¡Bienvenido! 👋 Este proyecto es una aplicación de escritorio con una interfaz gráfica (GUI) que te permite crear, cargar, entrenar y evaluar modelos de redes neuronales (MLP y CNN) usando **PyTorch**.
+¡Bienvenido! 👋 Este proyecto es una aplicación de escritorio con una interfaz gráfica (GUI) que te permite crear, cargar, entrenar y evaluar modelos de redes neuronales (MLP) usando **PyTorch**.
 
 El objetivo principal es clasificar imágenes del popular dataset **Fashion MNIST** 👕👖👟.
 
