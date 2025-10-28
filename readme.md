@@ -18,7 +18,7 @@ Esta aplicación te permite gestionar todo el ciclo de vida de un modelo de clas
     * Guarda tu modelo recién entrenado en un archivo `.pth`.
 * **📊 Entrenamiento Flexible:**
     * Selecciona tus propios archivos `.csv` de entrenamiento y prueba.
-    * Define el **optimizador** (Adam, SGD), **tasa de aprendizaje**, **número de épocas** y **tamaño del lote** (batch size).
+    * Define el **optimizador** (Adam, SGD o RMSProp), **tasa de aprendizaje**, **número de épocas** y **tamaño del lote** (batch size).
 * **🔄 Doble Modo de Clasificación:**
     * **10 Clases:** Clasifica el dataset Fashion MNIST original (Camisa, Pantalón, Bota, etc.).
     * **4 Clases:** Agrupa las 10 clases en 4 categorías simplificadas (Top, Bottom, Calzado, Bolso).
